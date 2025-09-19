@@ -18,12 +18,13 @@
 ---
 
 ## Folder Structure
+```text
 sync-music-app/
-├── backend/ # Node.js server with Express and Socket.IO
-├── frontend/ # React + TypeScript frontend
+├── backend/      # Node.js server with Express and Socket.IO
+├── frontend/     # React + TypeScript frontend
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Prerequisites
