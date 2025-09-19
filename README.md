@@ -36,20 +36,31 @@ sync-music-app/
 
 ## Backend Setup
 1. Navigate to the backend folder:
+   ```bash
    cd backend
-   
-2. Install dependencies:
-npm install
+   ```   
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-3. Start the backend server:
- node index.js
+5. Start the backend server:
+   ```bash
+   node index.js
+   ```
 
 ## Frontend Setup
 1. Navigate to the frontend folder:
+   ```bash
    cd frontend
+   ```
    
-2. Install dependencies:
-  npm install
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-3. Start the frontend development server:
- npm run dev
+5. Start the frontend development server:
+   ```bash
+   npm run dev
+   ```
